@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73051955604",
+    "project_id": "sayriapp-ff241",
+    "storage_bucket": "sayriapp-ff241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73051955604:android:6896119d364487efd92f81",
+        "android_client_info": {
+          "package_name": "com.example.sayriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73051955604-2plt7hev2nlcal0onlbvr4hg0o8rnfe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sayriapp",
+            "certificate_hash": "9eccdfc8056e224c51e61d48856b68c9336c017d"
+          }
+        },
+        {
+          "client_id": "73051955604-aunb99llv3kb2ub8o92gmssmsn26rbps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Onhq_v9GNGOJCK3qzaW3KbxVxuVQp18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73051955604-aunb99llv3kb2ub8o92gmssmsn26rbps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
